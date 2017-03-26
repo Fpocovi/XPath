@@ -1,0 +1,110 @@
+body,
+html {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: #229239
+}
+main {
+    background-color: #b7a9a9;
+    border: 2px solid;
+    box-shadow: 1px 1px 6px #000000;
+    margin: 0 auto;
+    padding: 0 41px 41px;
+    width: auto;
+    height: auto;
+}
+div {
+    background-color: #d89c46;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1em;
+    color: black;
+    display: block;
+    width: auto;
+    height: auto;
+    margin: 10px 5px;
+    padding: 5px 10px;
+    border: 2px solid #733118;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #000000;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+h3,
+#cabecera {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0px 30px;
+    padding: 0px;
+    overflow: hidden;
+}
+li a {
+    color: #733118;
+    text-align: center;
+    padding: 0px;
+    font-family: verdana;
+    font-size: 1em;
+    text-decoration: none
+}
+.active {
+    color: white;
+}
+li a:hover:not(.active) {
+    background-color: #229239;
+    color: yellow
+}
+li {
+    float: left;
+    display: block;
+    text-align: center;
+    margin: 0px 20px;
+    padding: 10px;
+}
+.start,
+.comp {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+footer {
+    font-family: verdana;
+    font-size: 0.7em;
+    color: darkgreen;
+    text-align: center;
+    float: right;
+    margin: 10px 50px;
+    padding: 30px 20px;
+}
+#comprobacion {
+    width: 50%;
+    margin: 20px auto;
+}
+.comp {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.5em;
+    background-color: #ea1e1e;
+}
+h2 {
+    text-align: center;
+    font-size: 24px;
+}
+h5 {
+    font-size: 16px;
+}
+.choice {
+    margin: 0 auto;
+    font-size: 1em;
+    background-color: #ea1e1e;
+    display: block;
+    text-align: center;
+}
+#nuevoexamen {
+    font-size: 16px;
+}

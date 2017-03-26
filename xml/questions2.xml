@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="questions.xsl"?>
+<!DOCTYPE questions SYSTEM "questions.dtd">
+
+<questions>
+
+   	<question id="UAP_HE1">
+		<type>radio</type>
+		<title>1.- ¿Qué país del continente africano se encuentra en la línea del paralelo del ecuador?</title>
+		<option>a) Angola</option>
+		<option>b) Kenia</option>
+		<option>c) Nigeria</option>
+		<option>d) Mali</option>
+		<answer>1</answer>
+	</question>
+	
+	<question id="UAP_HE2">
+		<type>checkbox</type>
+		<title>2.- ¿Qué océano se encuentra al sur de Asia?</title>
+		<option>a) Océano Índico</option>
+		<option>b) Océano Pacífico</option>
+		<option>c) Océano Atlántico</option>
+		<option>d) Océano Glaciar Ártico</option>
+		<answer>0</answer>
+	</question>
+
+	<question id="UAP_HE3">
+		<type>text</type>
+		<title>3.- ¿Cuál es el continente considerado como viejo continente?</title>
+		<answer>Europa</answer>
+	</question>
+
+	<question id="UAP_HE4">
+		<type>multiple</type>
+			<title>4.- ¿Qué país o paises del continente americano tiene costa con el Océano Atlántico?</title>
+			<option>a) Brasil</option>
+			<option>b) Argentina</option>
+			<option>c) Perú</option>
+			<option>d) Colombia</option>
+			<answer>0</answer>
+			<answer>1</answer>
+	</question>	
+
+   	<question id="UAP_HE5">
+		<type>radio</type>
+		<title>5.- ¿Cuál es el océano más grande del planeta?</title>
+		<option>a) Océano Atlántico</option>
+		<option>b) Océano Glaciar Ártico</option>
+		<option>c) Océano Glaciar Antártico</option>
+		<option>d) Océano Pacífico</option>
+		<answer>3</answer>
+	</question>
+
+	<question id="UAP_HE6">
+		<type>select</type>
+		<title>6.- ¿Qué país pertenece al continente africano?</title>
+		<option>a) Chile</option>
+		<option>b) Iran</option>
+		<option>c) Nigeria</option>
+		<option>d) Italia</option> 
+		<answer>2</answer>
+	</question>
+
+	<question id="UAP_HE7">
+		<type>multiple</type>
+			<title>7.- ¿Qué país o paises pertenecen al continente de Asia?</title>
+			<option>a) Somalia</option>
+			<option>b) China</option>
+			<option>c) India</option>
+			<option>d) México</option>
+			<answer>1</answer>
+			<answer>2</answer>
+	</question>	
+
+	<question id="UAP_HE8">
+		<type>checkbox</type>
+		<title>8.- ¿Qué país o paises pertenecen al continente europeo?</title>
+		<option>a) Egipto</option>
+		<option>b) Grecia</option>
+		<option>c) Venezuela</option>
+		<option>d) Italia</option>
+		<answer>1</answer>
+		<answer>3</answer>
+	</question>
+	
+	<question id="UAP_HE9">
+		<type>select</type>
+		<title>9.- ¿Qué ciudad es capital de un país del mundo?</title>
+		<option>a) Estambul</option>
+		<option>b) Rio de Janeiro</option>
+		<option>c) Paris</option>
+		<option>d) Barcelona</option> 
+		<answer>2</answer>
+	</question>
+
+	<question id="UAP_HE10">
+		<type>text</type>
+		<title>10.- ¿Cuál es el país más grande del continente de Oceanía?</title>
+		<answer>Australia</answer>
+	</question>
+
+</questions>
